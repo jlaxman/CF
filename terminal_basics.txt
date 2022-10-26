@@ -1,0 +1,11 @@
+pwd- print working directory
+cd-  change directory
+cd .. means changes to root directory of current directory
+cd ~ to home directory
+ls list all files in current directory
+touch test_file.txt = creates test_file.txt in pwd
+open test_file.txt opens file
+nano test_file.txt opened for editing
+python hello.py to run a python program
+HI sanju
+
